@@ -1,0 +1,2 @@
+- install all packages with `req.txt`
+- alter the variable `input_path` specifiying your own file 
